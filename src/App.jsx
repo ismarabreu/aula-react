@@ -1,4 +1,4 @@
-import {BotaoColorido} from './components/BotaoColorido';
+import PokemonSearch from './components/PokemonSearch';
 import './App.css'
 
 const App = () => {
@@ -6,7 +6,7 @@ const App = () => {
   return (
     <div className="app">
 
-      <BotaoColorido/>
+      <PokemonSearch />
 
     </div>
 
